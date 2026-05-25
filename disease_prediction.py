@@ -12,7 +12,7 @@ from sklearn.metrics import (
 
 
 # Load Dataset
-data = pd.read_csv(r"C:\Users\shara\OneDrive\ドキュメント\Machine Learning\Maths for ml\CodeAlpha_DiseasePrediction\diabetes.csv")
+data = pd.read_csv(r"diabetes.csv")
 
 
 # Features and Target
