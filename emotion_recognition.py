@@ -29,7 +29,7 @@ def extract_feature(file_name):
 
 
 # Dataset Folder
-dataset_path = r"C:\Users\shara\OneDrive\ドキュメント\Machine Learning\Maths for ml\CodeAlpha_EmotionRecognition\dataset"
+dataset_path = r"dataset"
 
 
 # Empty Lists
