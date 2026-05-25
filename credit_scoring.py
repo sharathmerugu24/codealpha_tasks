@@ -14,7 +14,7 @@ from sklearn.metrics import classification_report
 
 
 # Load dataset
-data = pd.read_csv(r"C:\Users\shara\OneDrive\ドキュメント\Machine Learning\Maths for ml\CodeAlpha_CreditScoring\german_credit_data.csv")
+data = pd.read_csv(r"german_credit_data.csv")
 
 print("First 5 Rows:")
 print(data.head())
